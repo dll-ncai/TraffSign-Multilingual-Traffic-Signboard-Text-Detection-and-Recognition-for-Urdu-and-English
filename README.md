@@ -1,1 +1,1 @@
-# -TraffSign-Multilingual-Traffic-Signboard-Text-Detection-and-Recognition-for-Urdu-and-English
+# TraffSign-Multilingual-Traffic-Signboard-Text-Detection-and-Recognition-for-Urdu-and-English
