@@ -9,7 +9,7 @@ This is a Pytorch implementation of Text detection part of the paper.
 6. [Compute-hmean](#compute-hmean)
 7. [Examples](#examples)
 
-### Installation
+### Installations
 1. The following libraries/packages are required for successful execution of this project.
   - PyTorch
   - Shapely
@@ -18,7 +18,7 @@ This is a Pytorch implementation of Text detection part of the paper.
 
 2. For convience, please execute `requirements.txt` in cmd prompt.
 
-### Download
+### Downloads
 The following files must be downloaded for successful setup.
 1. **Dataset**
     Please download the Traffsign dataset from our google drive link.
@@ -27,3 +27,9 @@ The following files must be downloaded for successful setup.
 	  Please download the backbone model from our google drive link and put into `.\tmp\backbone_net`.
 3. **pretrained Model**: 
 	  Please download the backbone model from our google drive link and put into `.\tmp`.
+	  
+### Train
+After successful completion of setup, please verify the directory paths and other parameters in `config.py`.
+Then execute the following cmd.
+```
+python train.py
