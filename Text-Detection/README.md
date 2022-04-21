@@ -11,10 +11,10 @@ This is a Pytorch implementation of Text detection part of the paper.
 
 ### Installation
 1. The following libraries/packages are required for successful execution of this project.
-PyTorch
-Shapely
-Opencv
-TensorboardX
+- PyTorch
+- Shapely
+- Opencv
+- TensorboardX
 
 2. For convience, please execute `requirements.txt` in cmd prompt.
 
