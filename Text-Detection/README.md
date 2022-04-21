@@ -54,11 +54,11 @@ python eval.py
 
 
 ### Examples
-Here are some test examples on icdar2015, enjoy the beautiful text boxes by mobilenet-v2 EAST!
+Here are some results of proposed text detector on our Traffsign dataset.
 
 ![image_1](Results/20200907_101850 0041.jpg)
-![image_1](Results/20201108_152309 4776.jpg)
-![image_1](Results/20201108_153825 089.jpg)
-![image_1](Results/20201108_153944 120.jpg)
+![image_2](Results/20201108_152309 4776.jpg)
+![image_3](Results/20201108_153825 089.jpg)
+![image_4](Results/20201108_153944 120.jpg)
 
-Please let me know if you encounter any issues(my email zhangmingliang2018@ia.ac.cn).
+In case of any query, please drop an email at matifbutt@outlook.com
