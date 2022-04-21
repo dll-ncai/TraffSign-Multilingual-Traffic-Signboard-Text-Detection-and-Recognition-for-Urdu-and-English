@@ -56,9 +56,9 @@ python eval.py
 ### Examples
 Here are some results of proposed text detector on our Traffsign dataset.
 
-![image_1](Results/20200907_101850 0041.jpg)
+![image_1](https://github.com/aatiibutt/TraffSign-Multilingual-Traffic-Signboard-Text-Detection-and-Recognition-for-Urdu-and-English/blob/patch-1/Text-Detection/Results/20200907_101850%200041.jpg)
 ![image_2](Results/20201108_152309 4776.jpg)
 ![image_3](Results/20201108_153825 089.jpg)
 ![image_4](Results/20201108_153944 120.jpg)
 
-In case of any query, please drop an email at matifbutt@outlook.com
+In case of any query, please drop an email at matifbutt@outlook.com.
