@@ -28,8 +28,30 @@ The following files must be downloaded for successful setup.
 3. **pretrained Model**: 
 	  Please download the backbone model from our google drive link and put into `.\tmp`.
 	  
-### Train
+### Training
 After successful completion of setup, please verify the directory paths and other parameters in `config.py`.
 Then execute the following cmd.
 ```
 python train.py
+```
+
+### Testing
+To test the model, please verify the paths of test directory and also specify the pretrained model in `checkpoint` in the `config.py` file.
+Then execute the following cmd.
+```
+python eval.py
+```
+
+
+### Demo
+To test some demos, please download the pre-trained model, or train the model and specify its path in `checkpoint` of `config.py` file.
+Then put the desired images in `.\demo\test_img`, and specify the path of `test_img_path` and `res_img_path`, you will find result in `.\demo\result_img`
+2. You should also specify the pretrained model in `checkpoint`.
+3. Then execute the following command.
+```
+python eval.py
+```
+
+
+
+
