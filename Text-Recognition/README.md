@@ -3,10 +3,9 @@ This is a Pytorch implementation of Text recognition part of the paper.
 ### Contents
 1. [Installations](#installations)
 2. [Downloads](#downloads)
-3. [Training](#training)
-4. [Testing](#testing)
-5. [Demo](#demo)
-6. [Results](#results)
+3. [Quick Demo](#demo)
+4. [Training](#training)
+5. [Evaluation](#evaluate)
 
 ### Installations
 1. The following libraries/packages are required for successful execution of this project.
