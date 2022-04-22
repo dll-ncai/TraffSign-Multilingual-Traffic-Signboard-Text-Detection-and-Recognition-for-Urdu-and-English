@@ -10,14 +10,14 @@ This is a Pytorch implementation of Text recognition part of the paper.
 
 ### Installations
 1. The following libraries/packages are required for successful execution of this project.
-  - PyTorch
-  - Docopt
-  - Numpy
-  - Opencv
-  - Pillow
-  - Scipy
-  - Six
-  - Tqdm
+    - PyTorch
+    - Docopt
+    - Numpy
+    - Opencv
+    - Pillow
+    - Scipy
+    - Six
+    - Tqdm
 
 2. For convience, please execute `requirements.txt` in cmd prompt.
 
