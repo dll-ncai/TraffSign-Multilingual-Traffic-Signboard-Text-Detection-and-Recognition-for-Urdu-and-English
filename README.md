@@ -6,3 +6,11 @@ Scene-text detection and recognition methods have demonstrated remarkable perfor
 
 ## Method
 ![The Method](https://github.com/aatiibutt/TraffSign-Multilingual-Traffic-Signboard-Text-Detection-and-Recognition-for-Urdu-and-English/blob/patch-1/Docs/Thesis-Method-U1.jpg)
+
+## Citation
+If you consider our work useful, please cite the following research work.
+
+
+
+## Contact
+If case of any query, please feel free to contact at matifbutt@outlook.com.
